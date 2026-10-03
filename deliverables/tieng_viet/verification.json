@@ -1,0 +1,192 @@
+{
+  "pdf": "DDM501_Assignment1_25MS13312_Nguy\u1ec5n_Minh_Tr\u01b0\u1eddng.pdf",
+  "pages": 30,
+  "words": 14411,
+  "required_sections": "PASS",
+  "word_architecture": "PASS",
+  "layout_issues": [],
+  "page_summary": [
+    {
+      "page": 1,
+      "first_line": "T\u00e0i li\u1ec7u thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng h\u1ecdc m\u00e1y",
+      "words": 89,
+      "body_bottom": 412.8
+    },
+    {
+      "page": 2,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 898,
+      "body_bottom": 766.6
+    },
+    {
+      "page": 3,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 425,
+      "body_bottom": 453.9
+    },
+    {
+      "page": 4,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 217,
+      "body_bottom": 458.4
+    },
+    {
+      "page": 5,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 420,
+      "body_bottom": 658.8
+    },
+    {
+      "page": 6,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 606,
+      "body_bottom": 759.3
+    },
+    {
+      "page": 7,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 611,
+      "body_bottom": 762.3
+    },
+    {
+      "page": 8,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 552,
+      "body_bottom": 766.8
+    },
+    {
+      "page": 9,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 348,
+      "body_bottom": 450.3
+    },
+    {
+      "page": 10,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 527,
+      "body_bottom": 767.8
+    },
+    {
+      "page": 11,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 626,
+      "body_bottom": 722.4
+    },
+    {
+      "page": 12,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 623,
+      "body_bottom": 760.3
+    },
+    {
+      "page": 13,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 482,
+      "body_bottom": 580.8
+    },
+    {
+      "page": 14,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 553,
+      "body_bottom": 740.3
+    },
+    {
+      "page": 15,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 621,
+      "body_bottom": 739.3
+    },
+    {
+      "page": 16,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 599,
+      "body_bottom": 736.9
+    },
+    {
+      "page": 17,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 601,
+      "body_bottom": 767.8
+    },
+    {
+      "page": 18,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 624,
+      "body_bottom": 762.3
+    },
+    {
+      "page": 19,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 134,
+      "body_bottom": 181.8
+    },
+    {
+      "page": 20,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 440,
+      "body_bottom": 771.4
+    },
+    {
+      "page": 21,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 562,
+      "body_bottom": 755.3
+    },
+    {
+      "page": 22,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 609,
+      "body_bottom": 759.3
+    },
+    {
+      "page": 23,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 629,
+      "body_bottom": 757.8
+    },
+    {
+      "page": 24,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 590,
+      "body_bottom": 761.9
+    },
+    {
+      "page": 25,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 211,
+      "body_bottom": 332.3
+    },
+    {
+      "page": 26,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 640,
+      "body_bottom": 695.3
+    },
+    {
+      "page": 27,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 339,
+      "body_bottom": 740.8
+    },
+    {
+      "page": 28,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 141,
+      "body_bottom": 250.3
+    },
+    {
+      "page": 29,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 522,
+      "body_bottom": 770.3
+    },
+    {
+      "page": 30,
+      "first_line": "DDM501 | D\u1ef1 b\u00e1o nhu c\u1ea7u | Thi\u1ebft k\u1ebf h\u1ec7 th\u1ed1ng ML",
+      "words": 172,
+      "body_bottom": 250.8
+    }
+  ],
+  "identity_complete": true,
+  "status": "PASS"
+}

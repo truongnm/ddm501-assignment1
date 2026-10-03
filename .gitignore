@@ -1,0 +1,16 @@
+.uv-cache/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+# Keep local drafts and review renders off the published repository.
+deliverables/*
+!deliverables/tieng_viet/
+deliverables/tieng_viet/archive*/
+**/*_StudentID_Name.*
+**/check_page_*.png
+**/layout_preview.png
+**/architecture_page_preview.png
+.github-publish.ps1

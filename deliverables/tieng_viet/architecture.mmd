@@ -1,0 +1,19 @@
+flowchart LR
+  Nguon[POS / Tồn kho / ERP / Kế hoạch khuyến mãi] --> ThuThap[Thu thập và kiểm tra hằng ngày]
+  ThuThap --> Tho[Lưu nguồn bất biến]
+  Tho --> DacTrung[Đặc trưng có phiên bản]
+  DacTrung --> HuanLuyen[Huấn luyện và đánh giá theo thời gian]
+  HuanLuyen --> Duyet[Kiểm tra và duyệt phát hành]
+  Duyet --> Kho[MLflow: phiên bản cố định]
+  DacTrung --> SuyLuan[Suy luận theo lô hằng ngày]
+  Kho --> SuyLuan
+  SuyLuan --> QuyTac[Kiểm tra dự báo và quy tắc bổ sung]
+  QuyTac --> CSDL[Công bố nguyên tử / PostgreSQL]
+  CSDL --> GiaoDien[API đọc và giao diện nhân viên]
+  GiaoDien --> PheDuyet[Phê duyệt / điều chỉnh]
+  PheDuyet --> ERP[Đơn nháp ERP chống trùng]
+  Nguon --> GiamSat[Giám sát chất lượng / thực tế / phân bố]
+  SuyLuan --> GiamSat
+  PheDuyet --> GiamSat
+  GiamSat --> XemXet[Điều tra / yêu cầu huấn luyện lại]
+  XemXet --> HuanLuyen
